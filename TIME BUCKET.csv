@@ -1,0 +1,877 @@
+TOTAL_AMOUNT;TIME_BUCKET;PRODUCT_CATEGORY;PRODUCT_TYPE;PRODUCT_DETAIL;STORE_LOCATION
+2352.00;Morning;Coffee;Gourmet brewed coffee;Ethiopia Rg;Lower Manhattan
+2269.20;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Lower Manhattan
+3433.50;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Lower Manhattan
+1059.00;Morning;Bakery;Scone;Oatmeal Scone;Lower Manhattan
+1364.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Lower Manhattan
+3655.00;Morning;Coffee;Barista Espresso;Latte Rg;Lower Manhattan
+2415.00;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Lower Manhattan
+1935.45;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Lower Manhattan
+2530.50;Morning;Coffee;Gourmet brewed coffee;Ethiopia Lg;Lower Manhattan
+2541.00;Morning;Tea;Brewed Black tea;Earl Grey Lg;Lower Manhattan
+1866.00;Morning;Coffee;Barista Espresso;Ouro Brasileiro shot;Lower Manhattan
+2172.00;Morning;Tea;Brewed Green tea;Serenity Green Tea Lg;Lower Manhattan
+1419.40;Morning;Bakery;Scone;Jumbo Savory Scone;Lower Manhattan
+1842.50;Morning;Tea;Brewed herbal tea;Lemon Grass Rg;Hell's Kitchen
+3375.00;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Hell's Kitchen
+3743.00;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Hell's Kitchen
+2929.50;Morning;Coffee;Gourmet brewed coffee;Ethiopia Lg;Hell's Kitchen
+1295.09;Morning;Bakery;Biscotti;Hazelnut Biscotti;Lower Manhattan
+1802.85;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Hell's Kitchen
+3052.50;Morning;Coffee;Barista Espresso;Cappuccino;Hell's Kitchen
+2103.00;Morning;Tea;Brewed herbal tea;Lemon Grass Lg;Lower Manhattan
+3120.00;Morning;Coffee;Barista Espresso;Latte;Hell's Kitchen
+2535.00;Morning;Coffee;Organic brewed coffee;Brazilian Rg;Lower Manhattan
+3156.00;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Lower Manhattan
+2061.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Hell's Kitchen
+1447.93;Morning;Bakery;Scone;Scottish Cream Scone ;Lower Manhattan
+2157.50;Morning;Tea;Brewed herbal tea;Peppermint Rg;Lower Manhattan
+2797.50;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Hell's Kitchen
+1962.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Lower Manhattan
+1604.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Hell's Kitchen
+2722.50;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Hell's Kitchen
+1451.25;Morning;Bakery;Pastry;Almond Croissant;Hell's Kitchen
+2760.00;Morning;Coffee;Barista Espresso;Latte;Astoria
+1106.00;Morning;Bakery;Pastry;Croissant;Astoria
+1896.00;Morning;Tea;Brewed Green tea;Serenity Green Tea Lg;Astoria
+1590.00;Morning;Tea;Brewed herbal tea;Lemon Grass Lg;Astoria
+1927.50;Morning;Tea;Brewed herbal tea;Peppermint Rg;Hell's Kitchen
+1647.00;Morning;Coffee;Barista Espresso;Espresso shot;Astoria
+1360.90;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Astoria
+843.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Hell's Kitchen
+856.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Astoria
+2781.00;Morning;Tea;Brewed herbal tea;Peppermint Lg;Lower Manhattan
+2985.00;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Lower Manhattan
+1910.00;Morning;Tea;Brewed Green tea;Serenity Green Tea Rg;Hell's Kitchen
+1888.95;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Lower Manhattan
+2152.50;Morning;Tea;Brewed Black tea;Earl Grey Rg;Lower Manhattan
+1781.75;Morning;Bakery;Scone;Ginger Scone;Hell's Kitchen
+2008.80;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Hell's Kitchen
+1092.02;Morning;Bakery;Biscotti;Ginger Biscotti;Lower Manhattan
+3519.75;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Lower Manhattan
+3633.75;Morning;Coffee;Barista Espresso;Latte Rg;Hell's Kitchen
+2445.00;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Astoria
+1298.00;Morning;Coffee;Organic brewed coffee;Brazilian Sm;Astoria
+1922.50;Morning;Tea;Brewed Black tea;Earl Grey Rg;Hell's Kitchen
+514.50;Afternoon;Bakery;Pastry;Croissant;Astoria
+1245.00;Afternoon;Tea;Brewed herbal tea;Peppermint Rg;Astoria
+1500.00;Afternoon;Coffee;Barista Espresso;Latte;Lower Manhattan
+1457.75;Afternoon;Coffee;Barista Espresso;Cappuccino Lg;Lower Manhattan
+1740.00;Afternoon;Coffee;Barista Espresso;Latte;Astoria
+877.30;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Hell's Kitchen
+783.20;Afternoon;Coffee;Organic brewed coffee;Brazilian Sm;Lower Manhattan
+785.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Rg;Lower Manhattan
+1236.75;Afternoon;Coffee;Barista Espresso;Latte Rg;Lower Manhattan
+1508.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Lower Manhattan
+2771.28;Morning;Bakery;Pastry;Chocolate Croissant;Lower Manhattan
+2618.00;Morning;Coffee;Organic brewed coffee;Brazilian Lg;Lower Manhattan
+2000.00;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Hell's Kitchen
+2091.00;Morning;Tea;Brewed herbal tea;Peppermint Lg;Hell's Kitchen
+1636.80;Morning;Coffee;Organic brewed coffee;Brazilian Sm;Lower Manhattan
+2880.00;Morning;Coffee;Barista Espresso;Latte;Lower Manhattan
+1242.50;Morning;Bakery;Biscotti;Ginger Biscotti;Hell's Kitchen
+2214.00;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Hell's Kitchen
+1962.50;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Lower Manhattan
+2235.00;Morning;Tea;Brewed Black tea;Earl Grey Lg;Hell's Kitchen
+1779.00;Morning;Tea;Brewed herbal tea;Peppermint Lg;Astoria
+1806.00;Morning;Tea;Brewed Black tea;English Breakfast Lg;Astoria
+2872.50;Morning;Coffee;Barista Espresso;Cappuccino;Lower Manhattan
+1211.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Lg;Hell's Kitchen
+1134.00;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Lg;Astoria
+1258.75;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Lower Manhattan
+1547.96;Morning;Bakery;Biscotti;Chocolate Chip Biscotti;Lower Manhattan
+1972.50;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Lower Manhattan
+2202.50;Morning;Tea;Brewed Black tea;English Breakfast Rg;Lower Manhattan
+1882.50;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Hell's Kitchen
+2843.25;Morning;Coffee;Barista Espresso;Cappuccino Lg;Hell's Kitchen
+3366.00;Morning;Coffee;Barista Espresso;Cappuccino Lg;Lower Manhattan
+2199.00;Morning;Coffee;Barista Espresso;Espresso shot;Lower Manhattan
+2145.20;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Lower Manhattan
+3487.50;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Astoria
+1357.40;Morning;Coffee;Gourmet brewed coffee;Ethiopia Sm;Hell's Kitchen
+2159.50;Morning;Coffee;Gourmet brewed coffee;Ethiopia Lg;Astoria
+2079.00;Morning;Bakery;Scone;Scottish Cream Scone ;Hell's Kitchen
+1770.00;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Astoria
+2272.50;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Astoria
+1905.00;Morning;Tea;Brewed Black tea;Earl Grey Rg;Astoria
+783.75;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Hell's Kitchen
+879.00;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Lg;Hell's Kitchen
+760.00;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Rg;Lower Manhattan
+734.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Astoria
+1458.75;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Astoria
+1245.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Astoria
+1237.50;Afternoon;Coffee;Barista Espresso;Latte;Hell's Kitchen
+1125.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Astoria
+1177.50;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Hell's Kitchen
+1389.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Astoria
+1012.35;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Astoria
+879.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Hell's Kitchen
+2326.50;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Astoria
+610.78;Afternoon;Bakery;Pastry;Croissant;Lower Manhattan
+2170.75;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Astoria
+1212.00;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Lg;Astoria
+1143.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Lower Manhattan
+609.40;Afternoon;Coffee;Organic brewed coffee;Brazilian Sm;Hell's Kitchen
+744.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Lower Manhattan
+2238.00;Morning;Tea;Brewed Green tea;Serenity Green Tea Lg;Hell's Kitchen
+3202.50;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Lower Manhattan
+1214.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Astoria
+1403.60;Morning;Bakery;Pastry;Croissant;Lower Manhattan
+1050.00;Morning;Bakery;Scone;Jumbo Savory Scone;Astoria
+1552.50;Morning;Tea;Brewed Green tea;Serenity Green Tea Rg;Astoria
+1798.52;Morning;Bakery;Scone;Ginger Scone;Lower Manhattan
+1197.00;Afternoon;Tea;Brewed Black tea;English Breakfast Lg;Astoria
+1152.50;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Astoria
+1100.50;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Lower Manhattan
+589.50;Afternoon;Bakery;Scone;Scottish Cream Scone ;Hell's Kitchen
+1395.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Lg;Astoria
+765.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Rg;Hell's Kitchen
+1888.00;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Astoria
+972.00;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Hell's Kitchen
+937.50;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Lower Manhattan
+1080.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Rg;Astoria
+1035.00;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Lower Manhattan
+825.00;Afternoon;Tea;Brewed herbal tea;Peppermint Lg;Hell's Kitchen
+932.50;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Hell's Kitchen
+715.00;Afternoon;Bakery;Biscotti;Hazelnut Biscotti;Astoria
+750.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Hell's Kitchen
+738.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Lower Manhattan
+1140.00;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Rg;Hell's Kitchen
+562.25;Afternoon;Bakery;Biscotti;Hazelnut Biscotti;Lower Manhattan
+843.75;Afternoon;Bakery;Scone;Jumbo Savory Scone;Astoria
+1068.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Astoria
+872.50;Afternoon;Tea;Brewed herbal tea;Peppermint Rg;Lower Manhattan
+710.50;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Hell's Kitchen
+1107.50;Afternoon;Tea;Brewed Black tea;Earl Grey Rg;Astoria
+1038.75;Afternoon;Coffee;Barista Espresso;Cappuccino;Lower Manhattan
+809.60;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Sm;Lower Manhattan
+739.50;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Lower Manhattan
+1110.00;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Rg;Astoria
+2298.00;Morning;Coffee;Gourmet brewed coffee;Ethiopia Rg;Hell's Kitchen
+1947.50;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Lower Manhattan
+905.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Lower Manhattan
+895.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Astoria
+828.91;Afternoon;Bakery;Scone;Ginger Scone;Lower Manhattan
+1113.00;Afternoon;Coffee;Barista Espresso;Espresso shot;Hell's Kitchen
+506.05;Afternoon;Bakery;Scone;Ginger Scone;Hell's Kitchen
+821.10;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Hell's Kitchen
+262.50;Afternoon;Bakery;Pastry;Croissant;Hell's Kitchen
+1211.25;Afternoon;Coffee;Barista Espresso;Cappuccino;Hell's Kitchen
+1005.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Lower Manhattan
+1343.82;Morning;Bakery;Scone;Cranberry Scone;Lower Manhattan
+1920.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Astoria
+2022.00;Morning;Coffee;Organic brewed coffee;Brazilian Rg;Astoria
+795.00;Afternoon;Tea;Brewed Black tea;Earl Grey Rg;Hell's Kitchen
+1150.00;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Astoria
+936.00;Afternoon;Tea;Brewed Black tea;English Breakfast Lg;Hell's Kitchen
+813.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Hell's Kitchen
+1456.00;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Astoria
+721.60;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Sm;Hell's Kitchen
+1220.70;Afternoon;Coffee;Barista Espresso;Ouro Brasileiro shot;Lower Manhattan
+972.00;Afternoon;Tea;Brewed Black tea;Earl Grey Lg;Lower Manhattan
+1029.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Lg;Lower Manhattan
+1104.00;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Rg;Astoria
+725.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Hell's Kitchen
+1391.90;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Astoria
+1277.50;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Lg;Hell's Kitchen
+652.50;Afternoon;Tea;Brewed Black tea;English Breakfast Rg;Hell's Kitchen
+966.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Lg;Lower Manhattan
+600.94;Afternoon;Bakery;Pastry;Chocolate Croissant;Lower Manhattan
+923.65;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Lower Manhattan
+1568.25;Afternoon;Coffee;Barista Espresso;Cappuccino Lg;Astoria
+446.25;Afternoon;Bakery;Pastry;Chocolate Croissant;Hell's Kitchen
+1083.00;Afternoon;Tea;Brewed herbal tea;Peppermint Lg;Lower Manhattan
+1251.00;Afternoon;Tea;Brewed Black tea;English Breakfast Lg;Lower Manhattan
+751.50;Afternoon;Bakery;Scone;Scottish Cream Scone ;Lower Manhattan
+1326.00;Afternoon;Coffee;Barista Espresso;Latte Rg;Hell's Kitchen
+807.00;Afternoon;Tea;Brewed Black tea;Earl Grey Lg;Hell's Kitchen
+852.60;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Astoria
+1980.50;Afternoon;Coffee;Barista Espresso;Latte Rg;Astoria
+1071.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Rg;Hell's Kitchen
+1413.75;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Lower Manhattan
+1338.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Rg;Astoria
+650.00;Afternoon;Tea;Brewed Black tea;Earl Grey Rg;Lower Manhattan
+614.25;Afternoon;Bakery;Scone;Cranberry Scone;Astoria
+763.40;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Sm;Astoria
+620.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Lower Manhattan
+693.00;Afternoon;Bakery;Biscotti;Chocolate Chip Biscotti;Astoria
+804.00;Afternoon;Coffee;Barista Espresso;Espresso shot;Lower Manhattan
+917.50;Afternoon;Tea;Brewed herbal tea;Peppermint Rg;Hell's Kitchen
+1781.25;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Astoria
+1519.00;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Lg;Lower Manhattan
+1181.25;Evening;Coffee;Barista Espresso;Latte;Hell's Kitchen
+1232.50;Evening;Coffee;Barista Espresso;Cappuccino Lg;Hell's Kitchen
+945.70;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Astoria
+1067.50;Evening;Tea;Brewed herbal tea;Lemon Grass Rg;Astoria
+927.50;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Astoria
+1192.50;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Astoria
+797.50;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Hell's Kitchen
+1195.95;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Astoria
+840.00;Evening;Coffee;Barista Espresso;Cappuccino;Lower Manhattan
+1762.50;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Astoria
+440.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Lower Manhattan
+1055.00;Evening;Tea;Brewed herbal tea;Peppermint Rg;Astoria
+379.95;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Lower Manhattan
+1167.00;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Hell's Kitchen
+597.50;Evening;Tea;Brewed herbal tea;Lemon Grass Rg;Lower Manhattan
+1207.50;Evening;Coffee;Organic brewed coffee;Brazilian Lg;Astoria
+316.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Lower Manhattan
+1211.00;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Hell's Kitchen
+1284.50;Evening;Coffee;Gourmet brewed coffee;Ethiopia Lg;Astoria
+605.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Lower Manhattan
+1082.50;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Astoria
+435.00;Evening;Tea;Brewed herbal tea;Peppermint Rg;Lower Manhattan
+264.03;Evening;Bakery;Scone;Ginger Scone;Lower Manhattan
+390.00;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Lower Manhattan
+311.26;Evening;Bakery;Pastry;Chocolate Croissant;Lower Manhattan
+742.50;Evening;Tea;Brewed herbal tea;Lemon Grass Rg;Hell's Kitchen
+848.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Astoria
+1823.50;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Astoria
+555.75;Evening;Bakery;Biscotti;Hazelnut Biscotti;Astoria
+967.50;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Lower Manhattan
+1280.00;Evening;Tea;Brewed Black tea;Earl Grey Rg;Astoria
+960.00;Evening;Tea;Brewed Green tea;Serenity Green Tea Lg;Hell's Kitchen
+510.40;Evening;Coffee;Gourmet brewed coffee;Ethiopia Sm;Lower Manhattan
+778.10;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Hell's Kitchen
+1528.00;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Hell's Kitchen
+660.00;Evening;Coffee;Gourmet brewed coffee;Ethiopia Sm;Hell's Kitchen
+444.50;Evening;Bakery;Pastry;Croissant;Lower Manhattan
+1194.25;Evening;Coffee;Barista Espresso;Latte Rg;Hell's Kitchen
+846.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Hell's Kitchen
+258.00;Evening;Bakery;Scone;Oatmeal Scone;Hell's Kitchen
+522.50;Evening;Tea;Brewed Black tea;English Breakfast Rg;Lower Manhattan
+1559.75;Evening;Coffee;Barista Espresso;Cappuccino Lg;Astoria
+374.50;Evening;Bakery;Biscotti;Chocolate Chip Biscotti;Hell's Kitchen
+621.00;Evening;Coffee;Barista Espresso;Espresso shot;Lower Manhattan
+274.62;Evening;Bakery;Scone;Cranberry Scone;Lower Manhattan
+862.50;Evening;Tea;Brewed Green tea;Serenity Green Tea Rg;Astoria
+902.50;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Hell's Kitchen
+843.75;Evening;Bakery;Pastry;Chocolate Croissant;Astoria
+1010.00;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Hell's Kitchen
+707.00;Evening;Bakery;Biscotti;Ginger Biscotti;Astoria
+1260.00;Evening;Coffee;Organic brewed coffee;Brazilian Lg;Hell's Kitchen
+1237.50;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Hell's Kitchen
+585.00;Evening;Tea;Brewed herbal tea;Peppermint Lg;Lower Manhattan
+1728.75;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Astoria
+942.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Hell's Kitchen
+1117.75;Evening;Coffee;Barista Espresso;Latte Rg;Lower Manhattan
+999.00;Evening;Tea;Brewed herbal tea;Peppermint Lg;Hell's Kitchen
+630.00;Evening;Tea;Brewed Black tea;English Breakfast Lg;Lower Manhattan
+731.25;Evening;Bakery;Scone;Jumbo Savory Scone;Astoria
+965.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Hell's Kitchen
+976.80;Evening;Coffee;Organic brewed coffee;Brazilian Sm;Astoria
+602.50;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Lower Manhattan
+315.00;Evening;Bakery;Biscotti;Chocolate Chip Biscotti;Lower Manhattan
+2189.75;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Astoria
+1197.00;Evening;Coffee;Gourmet brewed coffee;Ethiopia Rg;Astoria
+1020.00;Evening;Tea;Brewed herbal tea;Lemon Grass Lg;Hell's Kitchen
+505.00;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Lower Manhattan
+1125.00;Evening;Tea;Brewed Black tea;English Breakfast Lg;Hell's Kitchen
+1398.10;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Astoria
+1353.75;Evening;Coffee;Barista Espresso;Latte;Astoria
+696.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Hell's Kitchen
+423.75;Evening;Bakery;Pastry;Almond Croissant;Hell's Kitchen
+1128.00;Evening;Tea;Brewed herbal tea;Lemon Grass Lg;Astoria
+936.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Hell's Kitchen
+1076.25;Evening;Coffee;Barista Espresso;Cappuccino;Hell's Kitchen
+1248.00;Evening;Tea;Brewed Black tea;Earl Grey Lg;Astoria
+1700.50;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Hell's Kitchen
+1494.00;Evening;Coffee;Barista Espresso;Espresso shot;Astoria
+876.00;Evening;Coffee;Gourmet brewed coffee;Ethiopia Rg;Hell's Kitchen
+1581.00;Evening;Coffee;Barista Espresso;Latte Rg;Astoria
+1982.50;Morning;Tea;Brewed herbal tea;Lemon Grass Rg;Lower Manhattan
+2382.00;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Lower Manhattan
+1974.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Hell's Kitchen
+2205.00;Morning;Coffee;Organic brewed coffee;Brazilian Rg;Hell's Kitchen
+1458.75;Morning;Bakery;Scone;Jumbo Savory Scone;Hell's Kitchen
+2996.00;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Hell's Kitchen
+1280.50;Morning;Bakery;Scone;Cranberry Scone;Hell's Kitchen
+2688.90;Morning;Coffee;Barista Espresso;Ouro Brasileiro shot;Hell's Kitchen
+1081.50;Morning;Bakery;Biscotti;Chocolate Chip Biscotti;Hell's Kitchen
+2289.00;Morning;Tea;Brewed herbal tea;Lemon Grass Lg;Hell's Kitchen
+2089.50;Morning;Coffee;Organic brewed coffee;Brazilian Lg;Astoria
+1007.50;Morning;Bakery;Scone;Cranberry Scone;Astoria
+717.00;Morning;Bakery;Scone;Oatmeal Scone;Astoria
+2160.00;Morning;Tea;Brewed Green tea;Serenity Green Tea Rg;Lower Manhattan
+2411.25;Morning;Coffee;Barista Espresso;Cappuccino;Astoria
+1555.00;Morning;Tea;Brewed herbal tea;Lemon Grass Rg;Astoria
+1685.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Astoria
+2130.00;Morning;Coffee;Barista Espresso;Espresso shot;Hell's Kitchen
+2808.75;Morning;Bakery;Pastry;Chocolate Croissant;Hell's Kitchen
+796.40;Afternoon;Coffee;Organic brewed coffee;Brazilian Sm;Astoria
+1260.00;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Lower Manhattan
+1236.00;Afternoon;Tea;Brewed Black tea;Earl Grey Lg;Astoria
+951.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Rg;Lower Manhattan
+390.00;Afternoon;Bakery;Scone;Oatmeal Scone;Lower Manhattan
+364.00;Afternoon;Bakery;Biscotti;Chocolate Chip Biscotti;Hell's Kitchen
+1667.25;Afternoon;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Hell's Kitchen
+441.04;Afternoon;Bakery;Biscotti;Ginger Biscotti;Lower Manhattan
+1080.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Astoria
+512.50;Evening;Tea;Brewed Green tea;Serenity Green Tea Rg;Lower Manhattan
+625.00;Evening;Tea;Brewed Black tea;Earl Grey Rg;Lower Manhattan
+493.50;Evening;Bakery;Pastry;Croissant;Astoria
+1844.00;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Astoria
+747.25;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Hell's Kitchen
+994.50;Evening;Bakery;Scone;Scottish Cream Scone ;Astoria
+557.50;Evening;Tea;Brewed herbal tea;Peppermint Rg;Hell's Kitchen
+948.00;Evening;Coffee;Barista Espresso;Espresso shot;Hell's Kitchen
+1867.80;Morning;Coffee;Organic brewed coffee;Brazilian Sm;Hell's Kitchen
+1745.00;Morning;Tea;Brewed Black tea;English Breakfast Rg;Hell's Kitchen
+1519.00;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Hell's Kitchen
+1847.50;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Hell's Kitchen
+960.00;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Lg;Lower Manhattan
+594.00;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Lower Manhattan
+558.00;Afternoon;Bakery;Scone;Scottish Cream Scone ;Astoria
+789.00;Afternoon;Tea;Brewed herbal tea;Lemon Grass Lg;Hell's Kitchen
+1153.80;Afternoon;Coffee;Barista Espresso;Ouro Brasileiro shot;Hell's Kitchen
+934.50;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Lower Manhattan
+1659.00;Afternoon;Coffee;Organic brewed coffee;Brazilian Lg;Astoria
+980.00;Evening;Tea;Brewed Black tea;Earl Grey Rg;Hell's Kitchen
+657.50;Afternoon;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Hell's Kitchen
+1182.00;Afternoon;Coffee;Gourmet brewed coffee;Ethiopia Rg;Lower Manhattan
+1525.50;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Hell's Kitchen
+1017.50;Afternoon;Tea;Brewed Green tea;Serenity Green Tea Rg;Hell's Kitchen
+1190.00;Afternoon;Coffee;Barista Espresso;Cappuccino Lg;Hell's Kitchen
+802.50;Afternoon;Bakery;Pastry;Chocolate Croissant;Astoria
+965.00;Afternoon;Tea;Brewed Black tea;English Breakfast Rg;Astoria
+660.00;Afternoon;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Hell's Kitchen
+616.00;Afternoon;Bakery;Biscotti;Chocolate Chip Biscotti;Lower Manhattan
+487.50;Afternoon;Bakery;Pastry;Almond Croissant;Astoria
+645.00;Afternoon;Bakery;Scone;Oatmeal Scone;Astoria
+338.00;Afternoon;Bakery;Biscotti;Hazelnut Biscotti;Hell's Kitchen
+652.50;Afternoon;Bakery;Pastry;Almond Croissant;Lower Manhattan
+1368.00;Evening;Tea;Brewed herbal tea;Peppermint Lg;Astoria
+1137.00;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Astoria
+1012.50;Evening;Tea;Brewed Black tea;English Breakfast Rg;Astoria
+492.00;Evening;Coffee;Organic brewed coffee;Brazilian Rg;Lower Manhattan
+746.25;Evening;Bakery;Pastry;Almond Croissant;Astoria
+941.60;Evening;Coffee;Gourmet brewed coffee;Ethiopia Sm;Astoria
+900.00;Evening;Tea;Brewed Green tea;Serenity Green Tea Rg;Hell's Kitchen
+1236.90;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Astoria
+657.00;Evening;Bakery;Scone;Scottish Cream Scone ;Hell's Kitchen
+1332.00;Evening;Tea;Brewed Green tea;Serenity Green Tea Lg;Astoria
+1323.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Astoria
+1091.20;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Hell's Kitchen
+1260.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Astoria
+1786.40;Morning;Coffee;Gourmet brewed coffee;Ethiopia Sm;Lower Manhattan
+1292.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Hell's Kitchen
+2307.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Lower Manhattan
+1947.00;Morning;Coffee;Gourmet brewed coffee;Ethiopia Rg;Astoria
+1852.40;Morning;Coffee;Gourmet brewed coffee;Ethiopia Sm;Astoria
+1908.00;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Astoria
+887.25;Morning;Bakery;Biscotti;Hazelnut Biscotti;Astoria
+2064.00;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Astoria
+799.71;Afternoon;Bakery;Scone;Jumbo Savory Scone;Lower Manhattan
+1032.30;Afternoon;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Hell's Kitchen
+1128.00;Evening;Coffee;Barista Espresso;Ouro Brasileiro shot;Hell's Kitchen
+1590.00;Evening;Coffee;Barista Espresso;Cappuccino;Astoria
+1150.00;Evening;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Astoria
+2083.50;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Astoria
+1365.00;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Hell's Kitchen
+646.80;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Lower Manhattan
+918.00;Evening;Coffee;Organic brewed coffee;Brazilian Rg;Hell's Kitchen
+2726.50;Morning;Coffee;Organic brewed coffee;Brazilian Lg;Hell's Kitchen
+584.00;Afternoon;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Hell's Kitchen
+957.50;Afternoon;Tea;Brewed Black tea;English Breakfast Rg;Lower Manhattan
+468.75;Afternoon;Bakery;Pastry;Almond Croissant;Hell's Kitchen
+285.00;Afternoon;Bakery;Scone;Jumbo Savory Scone;Hell's Kitchen
+1170.00;Afternoon;Coffee;Barista Espresso;Espresso shot;Astoria
+1282.50;Afternoon;Coffee;Barista Espresso;Cappuccino;Astoria
+549.25;Afternoon;Bakery;Scone;Ginger Scone;Astoria
+1575.00;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Lower Manhattan
+18.00;Night;Tea;Brewed herbal tea;Lemon Grass Lg;Astoria
+684.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Lower Manhattan
+315.02;Evening;Bakery;Scone;Scottish Cream Scone ;Lower Manhattan
+734.70;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Lower Manhattan
+461.50;Afternoon;Bakery;Scone;Cranberry Scone;Lower Manhattan
+366.00;Evening;Bakery;Scone;Oatmeal Scone;Lower Manhattan
+840.00;Evening;Coffee;Gourmet brewed coffee;Ethiopia Rg;Lower Manhattan
+1149.00;Evening;Tea;Brewed Black tea;English Breakfast Lg;Astoria
+776.60;Evening;Coffee;Organic brewed coffee;Brazilian Sm;Hell's Kitchen
+542.75;Evening;Bakery;Scone;Ginger Scone;Astoria
+575.00;Evening;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Lower Manhattan
+1102.50;Evening;Coffee;Gourmet brewed coffee;Ethiopia Lg;Hell's Kitchen
+854.00;Evening;Coffee;Organic brewed coffee;Brazilian Lg;Lower Manhattan
+604.50;Evening;Bakery;Scone;Cranberry Scone;Astoria
+304.50;Evening;Bakery;Biscotti;Ginger Biscotti;Lower Manhattan
+1218.00;Evening;Coffee;Organic brewed coffee;Brazilian Rg;Astoria
+556.50;Evening;Bakery;Biscotti;Chocolate Chip Biscotti;Astoria
+477.15;Evening;Bakery;Scone;Ginger Scone;Hell's Kitchen
+888.25;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Lower Manhattan
+576.00;Evening;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Lower Manhattan
+504.00;Evening;Coffee;Gourmet brewed coffee;Ethiopia Lg;Lower Manhattan
+371.25;Evening;Bakery;Pastry;Almond Croissant;Lower Manhattan
+513.50;Evening;Bakery;Scone;Cranberry Scone;Hell's Kitchen
+585.00;Evening;Bakery;Scone;Oatmeal Scone;Astoria
+726.00;Evening;Tea;Brewed Black tea;Earl Grey Lg;Hell's Kitchen
+419.25;Evening;Bakery;Biscotti;Hazelnut Biscotti;Hell's Kitchen
+507.50;Evening;Bakery;Biscotti;Ginger Biscotti;Hell's Kitchen
+353.50;Evening;Bakery;Pastry;Croissant;Hell's Kitchen
+736.95;Evening;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Hell's Kitchen
+1153.13;Morning;Bakery;Pastry;Almond Croissant;Lower Manhattan
+1977.50;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Hell's Kitchen
+1274.00;Morning;Bakery;Biscotti;Hazelnut Biscotti;Hell's Kitchen
+1496.00;Morning;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Astoria
+1820.00;Morning;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Lower Manhattan
+2382.00;Morning;Tea;Brewed Black tea;English Breakfast Lg;Hell's Kitchen
+1152.00;Morning;Bakery;Scone;Scottish Cream Scone ;Astoria
+2966.50;Morning;Coffee;Barista Espresso;Cappuccino Lg;Astoria
+17.00;Night;Coffee;Barista Espresso;Latte Rg;Astoria
+225.00;Night;Tea;Brewed Black tea;Earl Grey Rg;Lower Manhattan
+276.00;Night;Coffee;Barista Espresso;Espresso shot;Lower Manhattan
+868.00;Afternoon;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Hell's Kitchen
+364.00;Afternoon;Bakery;Biscotti;Ginger Biscotti;Hell's Kitchen
+833.90;Afternoon;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Lower Manhattan
+419.25;Afternoon;Bakery;Scone;Cranberry Scone;Hell's Kitchen
+1089.00;Afternoon;Tea;Brewed herbal tea;Peppermint Lg;Astoria
+1070.00;Afternoon;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Lower Manhattan
+518.00;Afternoon;Bakery;Biscotti;Ginger Biscotti;Astoria
+1023.75;Evening;Coffee;Barista Espresso;Latte;Lower Manhattan
+472.50;Evening;Bakery;Scone;Jumbo Savory Scone;Hell's Kitchen
+397.51;Evening;Bakery;Scone;Jumbo Savory Scone;Lower Manhattan
+514.50;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Lower Manhattan
+481.50;Evening;Coffee;Barista Espresso;Ouro Brasileiro shot;Lower Manhattan
+1408.50;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Hell's Kitchen
+693.00;Evening;Tea;Brewed Black tea;Earl Grey Lg;Lower Manhattan
+767.50;Evening;Tea;Brewed Black tea;English Breakfast Rg;Hell's Kitchen
+2052.20;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Hell's Kitchen
+2002.00;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Astoria
+2190.00;Morning;Bakery;Pastry;Chocolate Croissant;Astoria
+2779.50;Morning;Coffee;Barista Espresso;Latte Rg;Astoria
+14.00;Night;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Astoria
+667.50;Evening;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Lower Manhattan
+540.00;Evening;Bakery;Pastry;Chocolate Croissant;Hell's Kitchen
+422.40;Evening;Coffee;Organic brewed coffee;Brazilian Sm;Lower Manhattan
+2145.50;Morning;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Hell's Kitchen
+1882.50;Morning;Tea;Brewed herbal tea;Peppermint Rg;Astoria
+1657.50;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Astoria
+1617.50;Morning;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Astoria
+2576.00;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Astoria
+236.25;Night;Coffee;Barista Espresso;Cappuccino;Hell's Kitchen
+185.50;Night;Bakery;Biscotti;Ginger Biscotti;Hell's Kitchen
+355.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Lower Manhattan
+483.60;Evening;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Lower Manhattan
+558.00;Evening;Tea;Brewed herbal tea;Lemon Grass Lg;Lower Manhattan
+901.00;Evening;Coffee;Barista Espresso;Cappuccino Lg;Lower Manhattan
+350.17;Evening;Bakery;Biscotti;Hazelnut Biscotti;Lower Manhattan
+1477.00;Morning;Bakery;Pastry;Croissant;Hell's Kitchen
+1821.00;Morning;Tea;Brewed Black tea;Earl Grey Lg;Astoria
+18.00;Night;Coffee;Organic brewed coffee;Brazilian Rg;Astoria
+182.90;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Hell's Kitchen
+516.00;Evening;Tea;Brewed Green tea;Serenity Green Tea Lg;Lower Manhattan
+1370.00;Morning;Tea;Brewed Black tea;English Breakfast Rg;Astoria
+1014.00;Morning;Bakery;Scone;Ginger Scone;Astoria
+378.25;Night;Coffee;Barista Espresso;Latte Rg;Lower Manhattan
+173.80;Night;Coffee;Gourmet brewed coffee;Ethiopia Sm;Lower Manhattan
+646.00;Night;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Lower Manhattan
+405.00;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Lower Manhattan
+80.00;Night;Flavours;Regular syrup;Hazelnut syrup;Lower Manhattan
+250.60;Morning;Loose Tea;Herbal tea;Peppermint;Lower Manhattan
+1443.05;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Astoria
+2247.50;Morning;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Astoria
+524.00;Morning;Flavours;Regular syrup;Carmel syrup;Lower Manhattan
+1029.00;Morning;Coffee beans;Gourmet Beans;Ethiopia;Lower Manhattan
+1237.50;Morning;Coffee beans;Organic Beans;Organic Decaf Blend;Lower Manhattan
+1102.50;Morning;Bakery;Pastry;Almond Croissant;Astoria
+429.60;Morning;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Hell's Kitchen
+610.40;Morning;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Lower Manhattan
+537.60;Morning;Flavours;Regular syrup;Hazelnut syrup;Lower Manhattan
+454.40;Morning;Flavours;Regular syrup;Hazelnut syrup;Hell's Kitchen
+469.60;Morning;Flavours;Regular syrup;Chocolate syrup;Hell's Kitchen
+555.20;Morning;Flavours;Regular syrup;Chocolate syrup;Lower Manhattan
+3101.75;Morning;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Astoria
+476.00;Morning;Flavours;Regular syrup;Carmel syrup;Hell's Kitchen
+57.60;Morning;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Lower Manhattan
+846.00;Morning;Coffee beans;Organic Beans;Brazilian - Organic;Hell's Kitchen
+427.50;Morning;Loose Tea;Chai tea;Morning Sunrise Chai;Hell's Kitchen
+160.00;Morning;Coffee beans;Green beans;Guatemalan Sustainably Grown;Lower Manhattan
+1104.30;Morning;Coffee beans;Espresso Beans;Primo Espresso Roast;Hell's Kitchen
+171.00;Night;Coffee;Gourmet brewed coffee;Ethiopia Rg;Lower Manhattan
+51.20;Afternoon;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Hell's Kitchen
+90.20;Night;Coffee;Organic brewed coffee;Brazilian Sm;Hell's Kitchen
+112.00;Evening;Flavours;Regular syrup;Chocolate syrup;Hell's Kitchen
+196.00;Night;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Hell's Kitchen
+138.00;Night;Tea;Brewed Black tea;Earl Grey Lg;Hell's Kitchen
+114.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Hell's Kitchen
+1170.00;Morning;Coffee beans;Organic Beans;Brazilian - Organic;Lower Manhattan
+447.50;Morning;Loose Tea;Chai tea;Traditional Blend Chai;Hell's Kitchen
+501.50;Morning;Coffee beans;Espresso Beans;Espresso Roast;Lower Manhattan
+395.20;Morning;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Hell's Kitchen
+1344.00;Morning;Branded;Housewares;I Need My Bean! Latte cup;Lower Manhattan
+342.25;Morning;Loose Tea;Green tea;Serenity Green Tea;Lower Manhattan
+531.00;Morning;Coffee beans;Espresso Beans;Espresso Roast;Astoria
+196.90;Morning;Loose Tea;Chai tea;Traditional Blend Chai;Astoria
+204.80;Afternoon;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Lower Manhattan
+138.40;Afternoon;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Hell's Kitchen
+175.20;Afternoon;Flavours;Regular syrup;Carmel syrup;Lower Manhattan
+175.20;Afternoon;Loose Tea;Chai tea;Spicy Eye Opener Chai;Astoria
+116.80;Afternoon;Flavours;Regular syrup;Carmel syrup;Hell's Kitchen
+195.20;Evening;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Lower Manhattan
+186.62;Evening;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Hell's Kitchen
+161.10;Evening;Loose Tea;Black tea;English Breakfast;Hell's Kitchen
+62.65;Evening;Loose Tea;Herbal tea;Lemon Grass;Astoria
+234.00;Evening;Coffee beans;Organic Beans;Brazilian - Organic;Astoria
+90.00;Evening;Coffee beans;Gourmet Beans;Columbian Medium Roast;Hell's Kitchen
+124.00;Evening;Flavours;Regular syrup;Hazelnut syrup;Hell's Kitchen
+112.00;Evening;Flavours;Regular syrup;Hazelnut syrup;Lower Manhattan
+196.90;Evening;Loose Tea;Herbal tea;Peppermint;Astoria
+225.00;Night;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Hell's Kitchen
+138.00;Night;Tea;Brewed Green tea;Serenity Green Tea Lg;Hell's Kitchen
+175.00;Night;Tea;Brewed Green tea;Serenity Green Tea Rg;Hell's Kitchen
+218.50;Night;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Hell's Kitchen
+189.00;Night;Bakery;Scone;Scottish Cream Scone ;Hell's Kitchen
+87.50;Night;Tea;Brewed herbal tea;Peppermint Rg;Hell's Kitchen
+144.00;Night;Coffee;Organic brewed coffee;Brazilian Rg;Hell's Kitchen
+165.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Hell's Kitchen
+147.90;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Hell's Kitchen
+384.85;Morning;Loose Tea;Black tea;English Breakfast;Lower Manhattan
+250.80;Morning;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Astoria
+966.00;Morning;Coffee beans;Gourmet Beans;Ethiopia;Astoria
+1134.00;Morning;Coffee beans;House blend Beans;Our Old Time Diner Blend;Hell's Kitchen
+552.15;Morning;Coffee beans;Espresso Beans;Primo Espresso Roast;Astoria
+214.80;Morning;Loose Tea;Herbal tea;Peppermint;Astoria
+1484.00;Morning;Branded;Clothing;I Need My Bean! T-shirt;Lower Manhattan
+170.05;Morning;Loose Tea;Black tea;Earl Grey;Lower Manhattan
+453.22;Morning;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Astoria
+456.45;Morning;Loose Tea;Herbal tea;Peppermint;Hell's Kitchen
+55.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Astoria
+256.75;Afternoon;Coffee beans;Premium Beans;Jamacian Coffee River;Astoria
+80.00;Afternoon;Flavours;Regular syrup;Hazelnut syrup;Hell's Kitchen
+135.00;Afternoon;Coffee beans;Gourmet Beans;Columbian Medium Roast;Astoria
+170.05;Evening;Loose Tea;Black tea;English Breakfast;Astoria
+76.00;Evening;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Astoria
+250.75;Evening;Coffee beans;Espresso Beans;Espresso Roast;Hell's Kitchen
+35.80;Evening;Loose Tea;Chai tea;Traditional Blend Chai;Astoria
+85.50;Evening;Loose Tea;Chai tea;Morning Sunrise Chai;Astoria
+61.35;Evening;Coffee beans;Espresso Beans;Primo Espresso Roast;Lower Manhattan
+231.00;Night;Coffee;Gourmet brewed coffee;Ethiopia Lg;Lower Manhattan
+192.50;Night;Tea;Brewed Black tea;English Breakfast Rg;Lower Manhattan
+684.00;Night;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Lower Manhattan
+107.50;Night;Tea;Brewed Black tea;Earl Grey Rg;Hell's Kitchen
+261.00;Night;Tea;Brewed Black tea;English Breakfast Lg;Lower Manhattan
+132.20;Night;Bakery;Scone;Ginger Scone;Lower Manhattan
+156.00;Night;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Hell's Kitchen
+76.80;Night;Flavours;Regular syrup;Chocolate syrup;Lower Manhattan
+27.20;Night;Flavours;Regular syrup;Chocolate syrup;Hell's Kitchen
+117.00;Night;Bakery;Scone;Ginger Scone;Hell's Kitchen
+2034.00;Morning;Tea;Brewed Black tea;English Breakfast Lg;Lower Manhattan
+2281.60;Morning;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Astoria
+321.00;Afternoon;Bakery;Scone;Oatmeal Scone;Hell's Kitchen
+477.00;Evening;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Lower Manhattan
+918.00;Morning;Bakery;Scone;Oatmeal Scone;Hell's Kitchen
+1011.50;Morning;Bakery;Biscotti;Ginger Biscotti;Astoria
+375.00;Night;Coffee;Barista Espresso;Latte;Lower Manhattan
+1630.00;Morning;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Astoria
+1032.50;Morning;Bakery;Biscotti;Chocolate Chip Biscotti;Astoria
+171.60;Night;Coffee;Gourmet brewed coffee;Ethiopia Sm;Hell's Kitchen
+882.00;Evening;Drinking Chocolate;Hot chocolate;Dark chocolate Lg;Lower Manhattan
+222.00;Morning;Loose Tea;Green tea;Serenity Green Tea;Astoria
+146.40;Evening;Flavours;Regular syrup;Carmel syrup;Hell's Kitchen
+120.00;Evening;Coffee beans;Green beans;Guatemalan Sustainably Grown;Astoria
+372.00;Evening;Branded;Housewares;I Need My Bean! Latte cup;Astoria
+49.00;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Hell's Kitchen
+91.00;Night;Bakery;Biscotti;Chocolate Chip Biscotti;Hell's Kitchen
+599.85;Morning;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Lower Manhattan
+900.00;Morning;Coffee beans;Organic Beans;Organic Decaf Blend;Hell's Kitchen
+106.64;Afternoon;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Astoria
+80.00;Evening;Coffee beans;Green beans;Guatemalan Sustainably Grown;Lower Manhattan
+198.75;Night;Bakery;Pastry;Chocolate Croissant;Lower Manhattan
+170.00;Night;Tea;Brewed herbal tea;Lemon Grass Rg;Hell's Kitchen
+533.25;Morning;Coffee beans;Premium Beans;Jamacian Coffee River;Lower Manhattan
+142.40;Night;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Lower Manhattan
+108.75;Night;Bakery;Scone;Jumbo Savory Scone;Lower Manhattan
+165.00;Night;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Hell's Kitchen
+66.00;Night;Coffee;Gourmet brewed coffee;Ethiopia Rg;Hell's Kitchen
+231.00;Night;Tea;Brewed herbal tea;Lemon Grass Lg;Lower Manhattan
+244.80;Morning;Flavours;Regular syrup;Hazelnut syrup;Astoria
+314.40;Morning;Flavours;Regular syrup;Carmel syrup;Astoria
+324.80;Morning;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Astoria
+288.80;Morning;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Lower Manhattan
+396.00;Morning;Flavours;Regular syrup;Chocolate syrup;Astoria
+1485.00;Morning;Coffee beans;Premium Beans;Civet Cat;Lower Manhattan
+116.35;Morning;Loose Tea;Chai tea;Traditional Blend Chai;Lower Manhattan
+204.00;Morning;Branded;Housewares;I Need My Bean! Diner mug;Hell's Kitchen
+912.00;Morning;Branded;Housewares;I Need My Bean! Diner mug;Lower Manhattan
+360.00;Afternoon;Coffee beans;Organic Beans;Brazilian - Organic;Lower Manhattan
+102.40;Afternoon;Flavours;Regular syrup;Chocolate syrup;Hell's Kitchen
+144.00;Afternoon;Branded;Housewares;I Need My Bean! Diner mug;Astoria
+51.20;Afternoon;Flavours;Regular syrup;Hazelnut syrup;Astoria
+107.40;Afternoon;Loose Tea;Black tea;Earl Grey;Hell's Kitchen
+67.20;Evening;Flavours;Regular syrup;Carmel syrup;Astoria
+128.80;Evening;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Hell's Kitchen
+62.65;Evening;Loose Tea;Herbal tea;Peppermint;Hell's Kitchen
+51.20;Evening;Flavours;Regular syrup;Hazelnut syrup;Astoria
+87.20;Evening;Flavours;Regular syrup;Chocolate syrup;Lower Manhattan
+64.00;Evening;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Astoria
+87.60;Evening;Loose Tea;Chai tea;Spicy Eye Opener Chai;Astoria
+207.00;Night;Bakery;Scone;Scottish Cream Scone ;Lower Manhattan
+134.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Lower Manhattan
+386.25;Night;Coffee;Barista Espresso;Cappuccino;Lower Manhattan
+113.75;Night;Bakery;Biscotti;Hazelnut Biscotti;Lower Manhattan
+232.50;Night;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Rg;Lower Manhattan
+333.00;Night;Tea;Brewed Green tea;Serenity Green Tea Lg;Lower Manhattan
+232.50;Night;Tea;Brewed Green tea;Serenity Green Tea Rg;Lower Manhattan
+297.00;Night;Tea;Brewed herbal tea;Peppermint Lg;Lower Manhattan
+144.00;Night;Coffee beans;House blend Beans;Our Old Time Diner Blend;Lower Manhattan
+224.40;Night;Coffee;Organic brewed coffee;Brazilian Sm;Lower Manhattan
+276.25;Night;Coffee;Barista Espresso;Cappuccino Lg;Lower Manhattan
+56.80;Night;Flavours;Regular syrup;Carmel syrup;Lower Manhattan
+272.50;Night;Tea;Brewed herbal tea;Peppermint Rg;Lower Manhattan
+117.60;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Sm;Lower Manhattan
+283.50;Night;Coffee;Organic brewed coffee;Brazilian Lg;Lower Manhattan
+225.00;Night;Tea;Brewed herbal tea;Lemon Grass Rg;Lower Manhattan
+157.50;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Hell's Kitchen
+97.50;Night;Bakery;Biscotti;Hazelnut Biscotti;Hell's Kitchen
+127.10;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Lower Manhattan
+150.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Hell's Kitchen
+35.20;Night;Flavours;Regular syrup;Hazelnut syrup;Hell's Kitchen
+216.00;Night;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Lower Manhattan
+212.50;Night;Coffee;Barista Espresso;Latte Rg;Hell's Kitchen
+15.20;Night;Flavours;Regular syrup;Carmel syrup;Hell's Kitchen
+129.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Hell's Kitchen
+66.50;Night;Loose Tea;Chai tea;Morning Sunrise Chai;Hell's Kitchen
+672.00;Morning;Branded;Clothing;I Need My Bean! T-shirt;Hell's Kitchen
+247.00;Morning;Loose Tea;Chai tea;Morning Sunrise Chai;Lower Manhattan
+366.95;Morning;Loose Tea;Black tea;Earl Grey;Hell's Kitchen
+868.00;Morning;Branded;Housewares;I Need My Bean! Latte cup;Astoria
+332.50;Morning;Loose Tea;Chai tea;Morning Sunrise Chai;Astoria
+287.00;Afternoon;Branded;Housewares;I Need My Bean! Latte cup;Astoria
+136.80;Afternoon;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Hell's Kitchen
+152.15;Afternoon;Loose Tea;Chai tea;Traditional Blend Chai;Lower Manhattan
+810.00;Afternoon;Coffee beans;Premium Beans;Civet Cat;Lower Manhattan
+64.80;Afternoon;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Astoria
+91.20;Evening;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Hell's Kitchen
+75.20;Evening;Flavours;Regular syrup;Chocolate syrup;Astoria
+168.00;Evening;Branded;Housewares;I Need My Bean! Diner mug;Astoria
+306.00;Night;Tea;Brewed Black tea;Earl Grey Lg;Lower Manhattan
+123.00;Night;Tea;Brewed herbal tea;Peppermint Lg;Hell's Kitchen
+444.50;Night;Drinking Chocolate;Hot chocolate;Dark chocolate Rg;Lower Manhattan
+77.00;Night;Bakery;Biscotti;Chocolate Chip Biscotti;Lower Manhattan
+179.80;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Hell's Kitchen
+432.00;Night;Tea;Brewed Chai tea;Morning Sunrise Chai Lg;Lower Manhattan
+183.00;Night;Coffee;Drip coffee;Our Old Time Diner Blend Lg;Hell's Kitchen
+295.35;Morning;Loose Tea;Herbal tea;Lemon Grass;Astoria
+612.25;Morning;Coffee beans;Premium Beans;Jamacian Coffee River;Astoria
+229.95;Morning;Loose Tea;Chai tea;Spicy Eye Opener Chai;Lower Manhattan
+98.45;Afternoon;Loose Tea;Black tea;English Breakfast;Hell's Kitchen
+55.50;Afternoon;Loose Tea;Green tea;Serenity Green Tea;Astoria
+88.50;Afternoon;Coffee beans;Espresso Beans;Espresso Roast;Lower Manhattan
+108.00;Afternoon;Branded;Housewares;I Need My Bean! Diner mug;Hell's Kitchen
+46.40;Afternoon;Flavours;Regular syrup;Carmel syrup;Astoria
+122.70;Afternoon;Coffee beans;Espresso Beans;Primo Espresso Roast;Hell's Kitchen
+122.40;Evening;Flavours;Regular syrup;Carmel syrup;Lower Manhattan
+111.00;Evening;Loose Tea;Green tea;Serenity Green Tea;Astoria
+198.00;Evening;Coffee beans;House blend Beans;Our Old Time Diner Blend;Hell's Kitchen
+306.60;Morning;Loose Tea;Chai tea;Spicy Eye Opener Chai;Hell's Kitchen
+492.25;Morning;Loose Tea;Herbal tea;Lemon Grass;Hell's Kitchen
+44.75;Afternoon;Loose Tea;Herbal tea;Peppermint;Lower Manhattan
+127.20;Afternoon;Flavours;Regular syrup;Hazelnut syrup;Lower Manhattan
+104.50;Afternoon;Loose Tea;Chai tea;Morning Sunrise Chai;Hell's Kitchen
+147.00;Afternoon;Coffee beans;Gourmet Beans;Ethiopia;Hell's Kitchen
+64.80;Afternoon;Flavours;Regular syrup;Chocolate syrup;Astoria
+143.15;Evening;Coffee beans;Espresso Beans;Primo Espresso Roast;Hell's Kitchen
+98.45;Evening;Loose Tea;Chai tea;Traditional Blend Chai;Lower Manhattan
+39.50;Evening;Coffee beans;Premium Beans;Jamacian Coffee River;Hell's Kitchen
+161.10;Evening;Loose Tea;Black tea;Earl Grey;Hell's Kitchen
+53.70;Evening;Loose Tea;Chai tea;Traditional Blend Chai;Hell's Kitchen
+472.50;Evening;Coffee beans;Organic Beans;Organic Decaf Blend;Hell's Kitchen
+1599.00;Morning;Branded;Clothing;I Need My Bean! T-shirt;Astoria
+945.00;Morning;Coffee beans;Gourmet Beans;Ethiopia;Hell's Kitchen
+161.10;Morning;Loose Tea;Black tea;English Breakfast;Hell's Kitchen
+480.00;Morning;Coffee beans;Gourmet Beans;Columbian Medium Roast;Astoria
+277.45;Morning;Loose Tea;Black tea;English Breakfast;Astoria
+408.00;Afternoon;Branded;Housewares;I Need My Bean! Diner mug;Lower Manhattan
+225.00;Afternoon;Coffee beans;Organic Beans;Organic Decaf Blend;Astoria
+103.25;Afternoon;Coffee beans;Espresso Beans;Espresso Roast;Hell's Kitchen
+47.50;Night;Drinking Chocolate;Hot chocolate;Sustainably Grown Organic Lg;Astoria
+408.00;Evening;Branded;Housewares;I Need My Bean! Diner mug;Lower Manhattan
+277.80;Night;Coffee;Barista Espresso;Ouro Brasileiro shot;Lower Manhattan
+66.00;Night;Bakery;Scone;Oatmeal Scone;Hell's Kitchen
+196.35;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Lower Manhattan
+300.80;Morning;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Hell's Kitchen
+140.00;Night;Bakery;Pastry;Croissant;Lower Manhattan
+117.00;Night;Tea;Brewed herbal tea;Lemon Grass Lg;Hell's Kitchen
+207.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Lower Manhattan
+172.25;Night;Bakery;Scone;Cranberry Scone;Lower Manhattan
+246.50;Night;Coffee;Barista Espresso;Cappuccino Lg;Hell's Kitchen
+449.90;Morning;Coffee beans;Espresso Beans;Primo Espresso Roast;Lower Manhattan
+6795.00;Morning;Coffee beans;Premium Beans;Civet Cat;Hell's Kitchen
+70.40;Evening;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Hell's Kitchen
+378.00;Evening;Coffee beans;Gourmet Beans;Ethiopia;Lower Manhattan
+708.00;Morning;Coffee beans;Espresso Beans;Espresso Roast;Hell's Kitchen
+108.00;Evening;Coffee beans;House blend Beans;Our Old Time Diner Blend;Lower Manhattan
+346.58;Morning;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Hell's Kitchen
+89.50;Evening;Loose Tea;Herbal tea;Lemon Grass;Hell's Kitchen
+157.25;Evening;Loose Tea;Green tea;Serenity Green Tea;Lower Manhattan
+110.00;Evening;Coffee beans;Green beans;Guatemalan Sustainably Grown;Hell's Kitchen
+216.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Lg;Lower Manhattan
+108.75;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Lg;Hell's Kitchen
+176.00;Night;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Lower Manhattan
+450.00;Morning;Coffee beans;House blend Beans;Our Old Time Diner Blend;Astoria
+30.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Rg;Astoria
+235.60;Afternoon;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Lower Manhattan
+66.65;Afternoon;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Hell's Kitchen
+812.00;Afternoon;Branded;Clothing;I Need My Bean! T-shirt;Astoria
+198.00;Afternoon;Coffee beans;Organic Beans;Brazilian - Organic;Astoria
+210.00;Night;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Lower Manhattan
+900.00;Evening;Coffee beans;Premium Beans;Civet Cat;Astoria
+420.00;Evening;Coffee beans;Gourmet Beans;Ethiopia;Astoria
+347.65;Evening;Coffee beans;Espresso Beans;Primo Espresso Roast;Astoria
+122.50;Night;Coffee;Gourmet brewed coffee;Ethiopia Lg;Hell's Kitchen
+137.50;Night;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Hell's Kitchen
+60.00;Night;Bakery;Scone;Jumbo Savory Scone;Hell's Kitchen
+85.50;Night;Coffee;Barista Espresso;Ouro Brasileiro shot;Hell's Kitchen
+108.00;Night;Coffee beans;Organic Beans;Brazilian - Organic;Lower Manhattan
+123.00;Night;Bakery;Scone;Oatmeal Scone;Lower Manhattan
+49.00;Night;Bakery;Pastry;Croissant;Hell's Kitchen
+76.00;Afternoon;Loose Tea;Chai tea;Morning Sunrise Chai;Astoria
+53.20;Afternoon;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Astoria
+243.00;Night;Coffee;Organic brewed coffee;Brazilian Rg;Lower Manhattan
+88.50;Evening;Coffee beans;Espresso Beans;Espresso Roast;Lower Manhattan
+26.85;Evening;Loose Tea;Herbal tea;Lemon Grass;Lower Manhattan
+121.60;Night;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Lower Manhattan
+112.50;Night;Tea;Brewed Black tea;English Breakfast Rg;Hell's Kitchen
+67.50;Night;Coffee beans;Organic Beans;Organic Decaf Blend;Hell's Kitchen
+234.50;Night;Coffee;Organic brewed coffee;Brazilian Lg;Hell's Kitchen
+112.50;Night;Bakery;Pastry;Chocolate Croissant;Hell's Kitchen
+810.00;Morning;Coffee beans;Premium Beans;Civet Cat;Astoria
+535.00;Morning;Branded;Housewares;I Need My Bean! Diner mug;Astoria
+270.00;Afternoon;Coffee beans;Premium Beans;Civet Cat;Hell's Kitchen
+40.90;Afternoon;Coffee beans;Espresso Beans;Primo Espresso Roast;Astoria
+53.70;Afternoon;Loose Tea;Herbal tea;Lemon Grass;Lower Manhattan
+517.50;Afternoon;Coffee beans;Organic Beans;Organic Decaf Blend;Hell's Kitchen
+126.75;Night;Bakery;Scone;Cranberry Scone;Hell's Kitchen
+20.80;Night;Flavours;Sugar free syrup;Sugar Free Vanilla syrup;Hell's Kitchen
+546.00;Morning;Branded;Housewares;I Need My Bean! Latte cup;Hell's Kitchen
+380.00;Morning;Coffee beans;Green beans;Guatemalan Sustainably Grown;Hell's Kitchen
+179.00;Morning;Loose Tea;Herbal tea;Lemon Grass;Lower Manhattan
+210.00;Afternoon;Coffee beans;Gourmet Beans;Columbian Medium Roast;Lower Manhattan
+68.40;Evening;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Lower Manhattan
+191.75;Evening;Coffee beans;Espresso Beans;Espresso Roast;Astoria
+44.75;Evening;Loose Tea;Black tea;Earl Grey;Astoria
+232.50;Night;Bakery;Pastry;Almond Croissant;Lower Manhattan
+144.00;Night;Tea;Brewed Black tea;English Breakfast Lg;Hell's Kitchen
+86.25;Night;Coffee;Barista Espresso;Latte;Hell's Kitchen
+50.00;Night;Coffee;Drip coffee;Our Old Time Diner Blend Sm;Hell's Kitchen
+323.75;Morning;Loose Tea;Green tea;Serenity Green Tea;Hell's Kitchen
+122.70;Afternoon;Coffee beans;Espresso Beans;Primo Espresso Roast;Lower Manhattan
+48.00;Evening;Branded;Housewares;I Need My Bean! Diner mug;Hell's Kitchen
+187.95;Morning;Loose Tea;Black tea;Earl Grey;Astoria
+607.50;Morning;Coffee beans;Organic Beans;Organic Decaf Blend;Astoria
+44.75;Afternoon;Loose Tea;Chai tea;Traditional Blend Chai;Astoria
+252.00;Afternoon;Coffee beans;Gourmet Beans;Ethiopia;Lower Manhattan
+160.00;Afternoon;Flavours;Regular syrup;Chocolate syrup;Lower Manhattan
+672.00;Afternoon;Branded;Clothing;I Need My Bean! T-shirt;Lower Manhattan
+185.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Rg;Lower Manhattan
+175.20;Night;Loose Tea;Chai tea;Spicy Eye Opener Chai;Lower Manhattan
+280.00;Morning;Coffee beans;Green beans;Guatemalan Sustainably Grown;Astoria
+672.00;Evening;Branded;Clothing;I Need My Bean! T-shirt;Astoria
+235.00;Night;Tea;Brewed Chai tea;Morning Sunrise Chai Rg;Lower Manhattan
+585.00;Morning;Coffee beans;Gourmet Beans;Columbian Medium Roast;Hell's Kitchen
+558.00;Morning;Coffee beans;House blend Beans;Our Old Time Diner Blend;Lower Manhattan
+257.30;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Lower Manhattan
+80.55;Afternoon;Loose Tea;Herbal tea;Peppermint;Astoria
+157.50;Evening;Coffee beans;Organic Beans;Organic Decaf Blend;Astoria
+66.65;Evening;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Astoria
+270.00;Morning;Coffee beans;Gourmet Beans;Columbian Medium Roast;Lower Manhattan
+138.25;Afternoon;Coffee beans;Premium Beans;Jamacian Coffee River;Lower Manhattan
+360.00;Afternoon;Coffee beans;Organic Beans;Organic Decaf Blend;Lower Manhattan
+80.55;Afternoon;Loose Tea;Black tea;English Breakfast;Lower Manhattan
+144.00;Afternoon;Coffee beans;House blend Beans;Our Old Time Diner Blend;Astoria
+122.50;Night;Coffee;Drip coffee;Our Old Time Diner Blend Rg;Hell's Kitchen
+40.00;Night;Coffee beans;Green beans;Guatemalan Sustainably Grown;Hell's Kitchen
+809.75;Morning;Coffee beans;Premium Beans;Jamacian Coffee River;Hell's Kitchen
+63.00;Night;Bakery;Biscotti;Ginger Biscotti;Lower Manhattan
+336.00;Afternoon;Branded;Housewares;I Need My Bean! Latte cup;Lower Manhattan
+216.00;Afternoon;Coffee beans;House blend Beans;Our Old Time Diner Blend;Hell's Kitchen
+112.00;Night;Branded;Clothing;I Need My Bean! T-shirt;Lower Manhattan
+93.00;Night;Coffee;Barista Espresso;Espresso shot;Hell's Kitchen
+17.90;Afternoon;Loose Tea;Black tea;Earl Grey;Lower Manhattan
+80.00;Night;Coffee beans;Green beans;Guatemalan Sustainably Grown;Lower Manhattan
+26.85;Afternoon;Loose Tea;Herbal tea;Peppermint;Hell's Kitchen
+12.00;Night;Tea;Brewed Chai tea;Traditional Blend Chai Lg;Astoria
+122.70;Night;Coffee beans;Espresso Beans;Primo Espresso Roast;Hell's Kitchen
+112.50;Night;Coffee beans;Organic Beans;Organic Decaf Blend;Lower Manhattan
+38.00;Night;Loose Tea;Chai tea;Morning Sunrise Chai;Lower Manhattan
+252.00;Night;Branded;Housewares;I Need My Bean! Latte cup;Lower Manhattan
+140.00;Evening;Branded;Clothing;I Need My Bean! T-shirt;Lower Manhattan
+38.40;Afternoon;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Lower Manhattan
+78.75;Night;Bakery;Pastry;Almond Croissant;Hell's Kitchen
+93.31;Afternoon;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Lower Manhattan
+134.25;Afternoon;Loose Tea;Herbal tea;Lemon Grass;Hell's Kitchen
+111.00;Night;Loose Tea;Green tea;Serenity Green Tea;Lower Manhattan
+47.50;Evening;Loose Tea;Chai tea;Morning Sunrise Chai;Hell's Kitchen
+20.00;Night;Tea;Brewed Black tea;Earl Grey Rg;Astoria
+30.00;Night;Tea;Brewed herbal tea;Peppermint Lg;Astoria
+8.00;Night;Coffee;Gourmet brewed coffee;Columbian Medium Roast Sm;Astoria
+27.90;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Lg;Astoria
+12.00;Night;Bakery;Scone;Oatmeal Scone;Astoria
+12.00;Night;Tea;Brewed Black tea;Earl Grey Lg;Astoria
+19.20;Afternoon;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Astoria
+44.75;Evening;Loose Tea;Black tea;English Breakfast;Lower Manhattan
+240.00;Evening;Coffee beans;Gourmet Beans;Columbian Medium Roast;Astoria
+79.00;Evening;Coffee beans;Premium Beans;Jamacian Coffee River;Astoria
+315.00;Afternoon;Coffee beans;Premium Beans;Civet Cat;Astoria
+62.65;Evening;Loose Tea;Black tea;Earl Grey;Lower Manhattan
+85.50;Evening;Loose Tea;Chai tea;Morning Sunrise Chai;Lower Manhattan
+25.60;Morning;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Astoria
+60.00;Afternoon;Coffee beans;Green beans;Guatemalan Sustainably Grown;Hell's Kitchen
+252.00;Afternoon;Coffee beans;Organic Beans;Brazilian - Organic;Hell's Kitchen
+216.00;Evening;Coffee beans;Organic Beans;Brazilian - Organic;Hell's Kitchen
+35.80;Afternoon;Loose Tea;Black tea;Earl Grey;Astoria
+43.80;Evening;Loose Tea;Chai tea;Spicy Eye Opener Chai;Lower Manhattan
+224.00;Evening;Branded;Housewares;I Need My Bean! Latte cup;Hell's Kitchen
+35.80;Evening;Loose Tea;Herbal tea;Peppermint;Lower Manhattan
+54.75;Evening;Loose Tea;Chai tea;Spicy Eye Opener Chai;Hell's Kitchen
+116.35;Night;Loose Tea;Black tea;Earl Grey;Lower Manhattan
+142.35;Morning;Loose Tea;Chai tea;Spicy Eye Opener Chai;Astoria
+414.00;Morning;Coffee beans;Organic Beans;Brazilian - Organic;Astoria
+177.75;Afternoon;Coffee beans;Premium Beans;Jamacian Coffee River;Hell's Kitchen
+54.00;Night;Coffee beans;House blend Beans;Our Old Time Diner Blend;Hell's Kitchen
+64.75;Afternoon;Loose Tea;Green tea;Serenity Green Tea;Hell's Kitchen
+252.00;Evening;Coffee beans;Gourmet Beans;Ethiopia;Hell's Kitchen
+98.55;Afternoon;Loose Tea;Chai tea;Spicy Eye Opener Chai;Lower Manhattan
+98.00;Afternoon;Branded;Housewares;I Need My Bean! Latte cup;Hell's Kitchen
+189.00;Afternoon;Coffee beans;Gourmet Beans;Ethiopia;Astoria
+64.75;Afternoon;Loose Tea;Green tea;Serenity Green Tea;Lower Manhattan
+85.50;Afternoon;Loose Tea;Chai tea;Morning Sunrise Chai;Lower Manhattan
+83.60;Night;Packaged Chocolate;Organic Chocolate;Sustainably Grown Organic;Lower Manhattan
+34.00;Night;Coffee;Barista Espresso;Cappuccino Lg;Astoria
+26.85;Night;Loose Tea;Chai tea;Traditional Blend Chai;Lower Manhattan
+135.00;Afternoon;Coffee beans;Gourmet Beans;Columbian Medium Roast;Hell's Kitchen
+54.00;Afternoon;Coffee beans;House blend Beans;Our Old Time Diner Blend;Lower Manhattan
+79.00;Night;Coffee beans;Premium Beans;Jamacian Coffee River;Lower Manhattan
+30.00;Evening;Coffee beans;Gourmet Beans;Columbian Medium Roast;Lower Manhattan
+24.00;Night;Tea;Brewed Green tea;Serenity Green Tea Lg;Astoria
+32.00;Evening;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Lower Manhattan
+12.00;Night;Tea;Brewed Black tea;English Breakfast Lg;Astoria
+6.00;Night;Coffee;Gourmet brewed coffee;Ethiopia Rg;Astoria
+9.30;Night;Coffee;Premium brewed coffee;Jamaican Coffee River Rg;Astoria
+36.00;Night;Coffee beans;Organic Beans;Brazilian - Organic;Hell's Kitchen
+140.00;Evening;Branded;Housewares;I Need My Bean! Latte cup;Lower Manhattan
+143.20;Afternoon;Loose Tea;Chai tea;Traditional Blend Chai;Hell's Kitchen
+53.70;Night;Loose Tea;Chai tea;Traditional Blend Chai;Hell's Kitchen
+42.00;Night;Branded;Housewares;I Need My Bean! Latte cup;Hell's Kitchen
+234.00;Evening;Coffee beans;House blend Beans;Our Old Time Diner Blend;Astoria
+44.75;Afternoon;Loose Tea;Black tea;English Breakfast;Astoria
+38.40;Evening;Packaged Chocolate;Drinking Chocolate;Dark chocolate;Astoria
+4.40;Night;Coffee;Gourmet brewed coffee;Ethiopia Sm;Astoria
+7.00;Night;Bakery;Pastry;Croissant;Astoria
+21.90;Afternoon;Loose Tea;Chai tea;Spicy Eye Opener Chai;Hell's Kitchen
+29.50;Afternoon;Coffee beans;Espresso Beans;Espresso Roast;Astoria
+59.25;Night;Coffee beans;Premium Beans;Jamacian Coffee River;Astoria
+45.00;Night;Coffee beans;Gourmet Beans;Columbian Medium Roast;Lower Manhattan
+79.00;Evening;Coffee beans;Premium Beans;Jamacian Coffee River;Lower Manhattan
+18.50;Evening;Loose Tea;Green tea;Serenity Green Tea;Hell's Kitchen
+8.95;Night;Loose Tea;Black tea;English Breakfast;Lower Manhattan
+8.95;Night;Loose Tea;Black tea;English Breakfast;Hell's Kitchen
+17.90;Afternoon;Loose Tea;Herbal tea;Lemon Grass;Astoria
+9.00;Night;Bakery;Scone;Scottish Cream Scone ;Astoria
+30.00;Afternoon;Coffee beans;Green beans;Guatemalan Sustainably Grown;Lower Manhattan
+45.00;Night;Coffee beans;Premium Beans;Civet Cat;Hell's Kitchen
+18.00;Evening;Coffee beans;Organic Beans;Brazilian - Organic;Lower Manhattan
+8.95;Night;Loose Tea;Herbal tea;Lemon Grass;Lower Manhattan
+270.00;Evening;Coffee beans;Premium Beans;Civet Cat;Hell's Kitchen
+10.20;Night;Tea;Brewed Chai tea;Spicy Eye Opener Chai Rg;Astoria
+53.32;Night;Packaged Chocolate;Drinking Chocolate;Chili Mayan;Hell's Kitchen
+19.75;Night;Coffee beans;Premium Beans;Jamacian Coffee River;Hell's Kitchen
